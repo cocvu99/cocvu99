@@ -15,7 +15,7 @@ Below is a list of my current pet projects. These are continuous works in progre
 - [sabaody-kv](https://github.com/cocvu99/sabaody-kv): A Redis-clone key-value cache.
 - [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A message queue system.
 - [ansible-role-sonarqube](https://github.com/cocvu99/ansible-role-sonarqube): An Ansible role to provision SonarQube.
-- [egghead-engineering](https://github.com/cocvu99/egghead-engineering): Implementations of system concepts from various technical engineering blogs.
+- [egghead-engineering](https://github.com/cocvu99/egghead-engineering): A laboratory for deep-diving into CS fundamentals, simulating BigTech architectures, and recreating major system outages.
 - [denden-app](https://github.com/cocvu99/denden-app): A real-time chat application built with Java Spring Boot.
 - [logpose-todo](https://github.com/cocvu99/logpose-todo): A to-do list web application. Vibe-coding for fun!
 - [frankys-kit](https://github.com/cocvu99/frankys-kit): A Kubernetes lab environment on AWS, automated with Terraform and Ansible.
