@@ -1,6 +1,6 @@
 ## Nguyen Cong Vu
 
-I am a DevOps Engineer with approximately 3 years of experience. My expertise focuses on DevOps, Site Reliability Engineering (SRE), and Backend Development. I frequently work with cloud platforms like AWS and Azure, Linux systems, and infrastructure automation.
+I am a Software Engineer with 3+ years of experience. My expertise focuses on DevOps, Site Reliability Engineering (SRE), and Backend Development. I frequently work with cloud platforms like AWS and Azure, Linux systems, and infrastructure automation.
 
 **Connect with me:**
 - LinkedIn: [cocvu-work](https://www.linkedin.com/in/cocvu-work/)
