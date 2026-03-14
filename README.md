@@ -1,16 +1,24 @@
-## Hi there 👋
+## Nguyen Cong Vu
 
-<!--
-**cocvu99/cocvu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Engineer with approximately 3 years of experience. My expertise focuses on DevOps, Site Reliability Engineering (SRE), and Backend Development. I frequently work with cloud platforms like AWS and Azure, Linux systems, and infrastructure automation.
 
-Here are some ideas to get you started:
+**Connect with me:**
+- LinkedIn: [cocvu-work](https://www.linkedin.com/in/cocvu-work/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Ongoing Projects
+
+Below is a list of my current pet projects. These are continuous works in progress where I apply concepts related to System Design, Database Internals, and Infrastructure:
+
+- [ohara-db](https://github.com/cocvu99/ohara-db): A database built from scratch using Golang.
+- [sabaody-kv](https://github.com/cocvu99/sabaody-kv): A Redis-clone key-value cache.
+- [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A message queue system.
+- [ansible-role-sonarqube](https://github.com/cocvu99/ansible-role-sonarqube): An Ansible role to provision SonarQube.
+- [egghead-engineering](https://github.com/cocvu99/egghead-engineering): Implementations of system concepts from various technical engineering blogs.
+- [denden-app](https://github.com/cocvu99/denden-app): A real-time chat application built with Java Spring Boot.
+- [logpose-todo](https://github.com/cocvu99/logpose-todo): A to-do list web application. Vibe-coding for fun!
+- [frankys-kit](https://github.com/cocvu99/frankys-kit): A Kubernetes lab environment on AWS, automated with Terraform and Ansible.
+
+
+Besides these projects, I actively practice algorithms and computer science fundamentals using Python3
