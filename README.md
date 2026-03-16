@@ -9,7 +9,7 @@ I am a Software Engineer with 3+ years of experience. My expertise focuses on De
 
 ### Ongoing Projects
 
-Below is a list of my current pet projects. These are continuous works in progress where I apply concepts related to System Design, Database Internals, and Infrastructure:
+Below is a list of my current pet projects. These are continuous works in progress where I learn and explore concepts related to System Design, Database Internals, and Infrastructure:
 
 - [ohara-db](https://github.com/cocvu99/ohara-db): A database built from scratch using Golang.
 - [sabaody-kv](https://github.com/cocvu99/sabaody-kv): A Redis-clone built from scratch using Golang with some Python scripts.
