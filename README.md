@@ -3,7 +3,8 @@
 I am a Software Engineer with 3+ years of experience. My expertise focuses on DevOps, Site Reliability Engineering (SRE), and Backend Development. I frequently work with cloud platforms like AWS and Azure, Linux systems, and infrastructure automation.
 
 **Connect with me:**
-- LinkedIn: [cocvu-work](https://www.linkedin.com/in/cocvu-work/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cocvu-work/)
+
 
 ---
 
