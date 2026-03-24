@@ -12,10 +12,10 @@ I am a Software Engineer with 3+ years of experience. My expertise focuses on De
 
 Below is a list of my current pet projects. These are continuous works in progress where I learn and explore concepts related to System Design, Database Internals, and Infrastructure:
 
-- [ohara-db](https://github.com/cocvu99/ohara-db): A database built from scratch using Golang.
 - [sabaody-kv](https://github.com/cocvu99/sabaody-kv): A Redis-clone built from scratch using Golang with some Python scripts.
-- [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A message queue system built from scratch using Golang.
+- [ohara-db](https://github.com/cocvu99/ohara-db): A database built from scratch using Golang.
 - [ansible-role-sonarqube](https://github.com/cocvu99/ansible-role-sonarqube): An Ansible role to provision SonarQube.
+- [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A message queue system built from scratch using Golang.
 - [egghead-engineering](https://github.com/cocvu99/egghead-engineering): A laboratory for deep-diving into CS fundamentals, simulating BigTech architectures, and recreating major system outages.
 - [denden-app](https://github.com/cocvu99/denden-app): A real-time chat application built with Java Spring Boot.
 - [logpose-todo](https://github.com/cocvu99/logpose-todo): A to-do list web application. Vibe-coding for fun!
