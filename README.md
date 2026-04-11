@@ -6,6 +6,7 @@ I am a Software Engineer with 3+ years of experience. My expertise focuses on De
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cocvu-work/)
 
 ## Technical Skills
+(Click on the icons if you want to learn more about it.)
 
 ### Cloud Platforms
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/)
