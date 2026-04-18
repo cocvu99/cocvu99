@@ -29,7 +29,7 @@ Below is a list of my current pet projects. These are continuous works in progre
 - [sabaody-kv](https://github.com/cocvu99/sabaody-kv): A Redis-clone built from scratch using Golang with some Python scripts.
 - [ohara-db](https://github.com/cocvu99/ohara-db): A database built from scratch using Golang.
 - [ansible-role-sonarqube](https://github.com/cocvu99/ansible-role-sonarqube): An Ansible role to provision SonarQube.
-- [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A message queue system built from scratch using Golang.
+- [poneglyph-mq](https://github.com/cocvu99/poneglyph-mq): A distributed message queue built from scratch using Golang.
 
 Some other projects: [frankys-kit](https://github.com/cocvu99/frankys-kit), [logpose-todo](https://github.com/cocvu99/logpose-todo), [egghead-engineering](https://github.com/cocvu99/egghead-engineering), [denden-app](https://github.com/cocvu99/denden-app).
 
