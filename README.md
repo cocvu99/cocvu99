@@ -11,8 +11,8 @@ I am a Software Engineer with 3+ years of experience. My expertise focuses on De
 <table>
   <tr>
     <th width="31%">Cloud Platforms</th>
-    <th width="38%">DevOps & SRE Tools</th>
-    <th width="31%">Languages & Scripting</th>
+    <th width="38%">Frameworks & Tools</th>
+    <th width="31%">Languages</th>
   </tr>
   <tr>
     <td align="center">
